@@ -1,6 +1,6 @@
 public class Owner {
-    String name;
-    String contacts;
+    public String name;
+    public String contacts;
 
     Owner(String name, String contacts) {
         this.name = name;
