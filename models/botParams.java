@@ -1,4 +1,6 @@
-public class BotParams {
+package models;
+
+public class botParams {
     public String name;
     public String sourceAPI;
     public String runningProvider;
